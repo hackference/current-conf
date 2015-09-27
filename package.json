@@ -6,7 +6,7 @@
   "scripts": {
     "test": "grunt test",
     "start": "node index.js",
-    "start-dev": "nodemon indes.js"
+    "start-dev": "nodemon index.js"
   },
   "repository": {
     "type": "git",
@@ -19,6 +19,7 @@
   },
   "homepage": "https://github.com/hackference/current-conf#readme",
   "dependencies": {
+    "dotenv": "^1.2.0",
     "hapi": "^10.1.0",
     "inert": "^3.0.1",
     "path": "^0.12.7"
