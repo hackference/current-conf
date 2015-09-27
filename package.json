@@ -1,0 +1,26 @@
+{
+  "name": "current-conf",
+  "version": "0.0.1",
+  "description": "A screen for between talks",
+  "main": "index.js",
+  "scripts": {
+    "test": "grunt test",
+    "start": "node index.js",
+    "start-dev": "nodemon indes.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hackference/current-conf.git"
+  },
+  "author": "Mike Elsmore <mike@elsmore.me>",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/hackference/current-conf/issues"
+  },
+  "homepage": "https://github.com/hackference/current-conf#readme",
+  "dependencies": {
+    "hapi": "^10.1.0",
+    "inert": "^3.0.1",
+    "path": "^0.12.7"
+  }
+}
