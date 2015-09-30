@@ -1,0 +1,59 @@
+/*@import url(https://fonts.googleapis.com/css?family=Open+Sans:400,300,600,700,800);*/
+
+/* Default Styles */
+*, *:before, *:after {
+	-webkit-box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	box-sizing: border-box;
+}
+
+html {
+	-webkit-font-smoothing: antialiased !important;
+	height: 100%;
+}
+
+body {
+	font-family: 'Open Sans', sans-serif;
+	background: #027394;
+	font-size: 18px;
+	font-weight: 300;
+	color: #FFF;
+	position: relative;
+	height: 100%;
+	padding: 1em;
+}
+
+header img {
+	width: 40%;
+}
+
+p.desc, div.desc {
+	line-height: 160%;
+	margin: 0 0 30px;
+	font-size: 15px;
+}
+
+div.desc {
+	margin: 0 0 10px;
+}
+
+#sponsor {
+	background: #FFF;
+	color: rgb(44, 62, 80);
+	padding: 1em;
+}
+
+/* Speakers */
+.speaker-image {
+	border: 0.5em black solid;
+	width: 100%;
+}
+
+/* Notification / Twitter Stream */
+#notification-stream li {
+	background: navy;
+	list-style: none;
+	padding: 1em;
+	border-radius: 5px;
+	margin-bottom: 0.2em;
+}
