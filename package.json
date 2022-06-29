@@ -23,10 +23,10 @@
     "dotenv": "^1.2.0",
     "hapi": "^10.1.0",
     "inert": "^3.0.1",
-    "passport": "^0.3.0",
+    "passport": "^0.6.0",
     "passport-twitter": "^1.0.3",
     "path": "^0.12.7",
-    "pusher": "^1.0.6",
+    "pusher": "^4.0.0",
     "twitter": "^1.2.5"
   }
 }
