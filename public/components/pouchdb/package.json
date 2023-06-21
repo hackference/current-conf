@@ -24,7 +24,7 @@
     "level-js": "^2.2.2",
     "level-sublevel": "^6.5.0",
     "level-write-stream": "^1.0.0",
-    "levelup": "^1.2.1",
+    "levelup": "^2.0.0",
     "lie": "3.0.0",
     "localstorage-down": "^0.6.3",
     "memdown": "^1.0.0",
