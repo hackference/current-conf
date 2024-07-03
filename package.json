@@ -26,7 +26,7 @@
     "passport": "^0.3.0",
     "passport-twitter": "^1.0.3",
     "path": "^0.12.7",
-    "pusher": "^1.0.6",
+    "pusher": "^4.0.0",
     "twitter": "^1.2.5"
   }
 }
